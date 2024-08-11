@@ -3,7 +3,7 @@ title: About
 permalink: /about/
 ---
 
-![banner](images/logo-en.jpg)
+![banner](images/banner.jpg)
 
 
 
